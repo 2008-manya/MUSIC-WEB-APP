@@ -1,0 +1,22 @@
+.speed{
+    float: left;
+}
+
+.speed_gif{
+    width: 250px;
+    border: 5px solid rgb(255, 173, 255);
+    border-radius: 100px;
+}
+
+.volume{
+    float:right;
+}
+
+.btn-warning{
+    font-size: 25px;
+}
+
+canvas{
+    border:5px soild lightcoral;
+    border-radius: 15px;
+}
